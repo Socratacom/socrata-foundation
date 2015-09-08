@@ -1,3 +1,2 @@
 # socrata-foundation
-
-# law-enforcement
+This is the repository for the SocrataFoundation.org site.
