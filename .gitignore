@@ -6,6 +6,7 @@
 *.bak
 *.swp
 Thumbs.db
+gulpfile.js
 
 # Sublime Text
 *.sublime-workspace
@@ -30,3 +31,6 @@ wp-content/plugins/*
 # Ignore everything in the "themes" directory, except the themes you specify
 wp-content/themes/*
 !wp-content/themes/sage/
+
+# Ignore everything in the Sage "node_modules" directory
+wp-content/themes/sage/node_modules/*
