@@ -138,7 +138,7 @@
 	/* My Slider Styles */
 
 	.slider-container {
-		height:600px;
+		height:800px;
 		width:100%;
 		overflow: hidden;
 		background-color:#ecf0f1;
@@ -148,8 +148,7 @@
 		margin: 0;
 	}
 	.slide.slick-slide {
-		height:600px;
-		background-size: cover;
+		height:800px;
 		background-repeat: no-repeat;
 		padding: 0;
 	}
@@ -160,7 +159,7 @@
 		background-color: rgba(0, 0, 0, .75);
 		color: #fff;
 	    padding: 30px 40px;
-	    height:600px;
+	    height:800px;
 	}
 	.slide-content h3 {
 		border-bottom: white 1px solid;
@@ -186,9 +185,8 @@
 		font-size: 25px;
 		height:100px;
 		width:100px;
-		background:#000;
-		color: #fff;
-		opacity: .75;
+		background: #fff;
+		color: #000;
 		margin-top:250px;
 		border-radius: 50%;
 	}
@@ -225,6 +223,10 @@
 	.slide-three {
 		background-image:url(../images/slide-three.jpg);
 	}
+	.slide-one, .slide-two, .slide-three {
+		background-size: auto 100%;
+		background-position: center center;
+	}
 	.mission-image {
 		height:200px;
 		width:200px;
@@ -253,6 +255,16 @@
 	  position: relative;
 	  top: 50%;
 	  transform: translateY(-50%);
+	}
+	.slider-container, .slide.slick-slide, .slide-content {
+		height:600px;
+	}
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+	.slide-one, .slide-two, .slide-three {
+		background-size: cover;
 	}
 }
 

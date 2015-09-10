@@ -70,7 +70,7 @@ function slider_one_shortcode($atts, $content = null) { ob_start(); ?>
     <div class="col-sm-12 slide slide-one">
       <div class="container">
         <div class="row">
-          <div class="col-lg-offset-6 col-md-5 col-md-offset-7 col-sm-10 col-sm-offset-1 slide-content">
+          <div class="col-lg-offset-6 col-md-6 col-md-offset-6 col-sm-10 col-sm-offset-1 slide-content">
             <small>Showcase</small>
             <h3>Making Data-Driven Government in Detroit a Reality</h3>
             <p>The Socrata Foundation’s first technology grant will be in the City of Detroit’s open data portal – <a href="http://data.detroitmi.gov" target="_blank">data.detroitmi.gov</a> – which will make volumes of non-personal government information broadly available and usable by people and machines without any constraints.</p>
@@ -83,7 +83,7 @@ function slider_one_shortcode($atts, $content = null) { ob_start(); ?>
     <div class="col-sm-12 slide slide-two">
       <div class="container">
         <div class="row">
-          <div class="col-lg-offset-6 col-md-5 col-md-offset-7 col-sm-10 col-sm-offset-1 slide-content">
+          <div class="col-lg-offset-6 col-md-6 col-md-offset-6 col-sm-10 col-sm-offset-1 slide-content">
             <small>Showcase</small>
             <h3>Taking on Family Abuse and Violence</h3>
             <p>The Socrata Foundation will also support <a href="https://bigmountaindata.partner.socrata.com" target="_blank">Big Mountain Data (BMD)</a>, which develops data science solutions to help in the fight against family abuse and violence.</p>
@@ -97,7 +97,7 @@ function slider_one_shortcode($atts, $content = null) { ob_start(); ?>
     <div class="col-sm-12 slide slide-three">
       <div class="container">
         <div class="row">
-          <div class="col-lg-offset-6 col-md-5 col-md-offset-7 col-sm-10 col-sm-offset-1 slide-content">
+          <div class="col-lg-offset-6 col-md-6 col-md-offset-6 col-sm-10 col-sm-offset-1 slide-content">
             <small>Showcase</small>
             <h3>Focusing on Affordable Housing</h3>
             <p>A 21st century digital infrastructure will attract new information-based ventures, maintain competitiveness in traditional industry, and dramatically reduce business transaction costs in your community.</p>
