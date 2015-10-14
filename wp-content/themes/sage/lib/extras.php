@@ -73,7 +73,7 @@ function slider_one_shortcode($atts, $content = null) { ob_start(); ?>
           <div class="col-lg-offset-6 col-md-6 col-md-offset-6 col-sm-10 col-sm-offset-1 slide-content">
             <small>Showcase</small>
             <h3>Making Data-Driven Government in Detroit a Reality</h3>
-            <p>The Socrata Foundation’s first technology grant will be in the City of Detroit’s open data portal – <a href="http://data.detroitmi.gov" target="_blank">data.detroitmi.gov</a> – which will make volumes of non-personal government information broadly available and usable by people and machines without any constraints.</p>
+            <p>The Socrata Foundation’s first technology grant is in the City of Detroit’s open data portal – <a href="http://data.detroitmi.gov" target="_blank">data.detroitmi.gov</a> – which will make volumes of non-personal government information broadly available and usable by people and machines without any constraints.</p>
             <p>Detroit Mayor Mike Duggan wants to show residents in his city that their government is finally working for them after years of instability and insolvency. That’s why he turned to data-driven government, which is creating a new form of digital democracy for the 21st century in innovative cities, counties, states, countries and regions all over the world.</p>
             <p>“Detroit knew that the transparency, accountability and fact-based decision-making that stem from open data was the absolute right thing for its citizens, but buying the technology just didn’t seem fiscally responsible, given where the city has been financially,” explains Merritt. “So we asked the Socrata Foundation to remove these obstacles and concerns, and that’s how Detroit was able to gain access to our platform, providing for the foundation of a robust form of data-driven government going forward.” </p>
           </div>
@@ -100,9 +100,9 @@ function slider_one_shortcode($atts, $content = null) { ob_start(); ?>
           <div class="col-lg-offset-6 col-md-6 col-md-offset-6 col-sm-10 col-sm-offset-1 slide-content">
             <small>Showcase</small>
             <h3>Focusing on Affordable Housing</h3>
-            <p>A 21st century digital infrastructure will attract new information-based ventures, maintain competitiveness in traditional industry, and dramatically reduce business transaction costs in your community.</p>
             <p>The Socrata Foundation sponsors Socrata’s annual employee sabbatical program called “One Month to Make an Open Data Difference.” The winner of this unique initiative receives a month of paid leave, plus $5,000 to be used for open data-powered community service and civic engagement.</p>
-            <p>The first winner of Socrata’s “One Month to Make an Open Data Difference” sabbatical was Marcus Louie, who submitted a winning proposal focused on the value that open data could bring to affordable housing in Washington, DC. The story of his work, completed in January of this year, is documented on <a href="http://www.marcuslouie.com/blog" target="_blank"> www.marcuslouie.com/blog</a>.</p>
+            <p>The first winner of Socrata’s “One Month to Make an Open Data Difference” sabbatical was Marcus Louie, who submitted a winning proposal focused on the value that open data could bring to affordable housing in Washington, DC.  Marcus worked with DC area nonprofit <a href="http://www.breadforthecity.org/" target="_blank">Bread for the City</a> to streamline the process of applying for low-income housing in DC.</p>
+            <p>The story of his work, completed in January of this year, is documented on <a href="http://www.marcuslouie.com/blog" target="_blank"> www.marcuslouie.com/blog</a>.</p>
           </div>
         </div>
       </div>
