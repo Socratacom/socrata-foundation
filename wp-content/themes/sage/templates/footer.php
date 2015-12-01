@@ -1,6 +1,5 @@
 <footer role="contentinfo">
   <div class="container">
-  	<div class="footer-logo stacked-logo"></div>
-  	<p class="copyright text-center">Copyright &copy; <?php echo date('Y'); ?> <a href="http://socrata.com">Socrata, Inc.</a> All rights reserved.</p>
+  	<p class="copyright text-center" style="font-weight: 400;">Copyright &copy; <?php echo date('Y'); ?> Socrata Foundation. All rights reserved.</p>
   </div>
 </footer>
